@@ -18,8 +18,7 @@ NET Core, Entity Framework, React ve TypeScript gibi öğrendiğimiz teknolojile
 
 1. Frontend projesini klonlayın: 
 ```bash
-git clone https://github.com/bkklc/TobetoProjectUI
-```
+
 2. İlgili klasörüne gidin:
 ```bash
 cd TobetoProject
@@ -38,13 +37,5 @@ dotnet run
 ```
 
 ## Kullanım
-Uygulama başladığında, tarayıcınızı açın ve http://localhost:3000/ adresine gidin. Burada, Tobeto.com'un kullanıcı arayüzünü göreceksiniz. Kaydolabilir, giriş yapabilir ve çeşitli bahis ve oyun seçeneklerinden yararlanabilirsiniz.
+Uygulama başladığında, tarayıcınızı açın ve http://localhost:3000/ adresine gidin. Burada, Tobeto.com'un kullanıcı arayüzünü göreceksiniz. 
 
-## Emeği Geçenler
-[Furkan Kayali](https://github.com/Hoixi)
-[Burak Uğraş](https://github.com/burakugras)
-[Ahmet Berk Kılıç](https://github.com/bkklc)
-[Mehmet Cesur](https://github.com/Mehmetcesur)
-[Cemal Taşkın](https://github.com/CemalTkn)
-[Sercan Canoğlu](https://github.com/sercanc7)
-[Beyza Altıntoprak](https://github.com/AltintoprakBeyza)
