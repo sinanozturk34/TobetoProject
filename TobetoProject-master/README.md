@@ -1,6 +1,6 @@
 # TobetoProject
 
-NET Core, Entity Framework, React ve TypeScript gibi  teknolojileri kullanarak tobeto.com'u sıfırdan geliştirdik. Arka uçta, bir nLayered mimarisi kullandık ve yanıt-istek modelini kullandık. Temel varlık nesnelerini oluşturduktan sonra, projenin veritabanını normalizasyon kurallarına dikkat ederek MSSQL ile tasarladık.
+NET Core, Entity Framework, React ve TypeScript gibi  teknolojileri kullanarak tobeto.com'u sıfırdan geliştirdik. Arka uçta, bir nLayered mimarisi  ve yanıt-istek modelini kullandım. Temel varlık nesnelerini oluşturduktan sonra, projenin veritabanını normalizasyon kurallarına dikkat ederek MSSQL ile tasarladık.
 
 ## Teknolojiler
 
